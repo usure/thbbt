@@ -1,0 +1,7 @@
+name: ppter
+version: 0.0.1
+description: >
+  Peers
+author: Greg
+homepage: http://newtify.dartlang.org
+dependencies:
