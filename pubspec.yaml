@@ -1,7 +1,7 @@
-name: ppter
+name: thbbt
 version: 0.0.1
 description: >
   Peers
-author: Greg
-homepage: http://newtify.dartlang.org
+author: usure
+homepage: github.com/usure
 dependencies:
